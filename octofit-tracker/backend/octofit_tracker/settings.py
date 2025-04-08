@@ -142,3 +142,6 @@ CORS_ALLOW_HEADERS = [
     'authorization',
     'x-csrftoken',
 ]
+
+# Base URL for the API endpoints
+API_BASE_URL = 'https://ubiquitous-space-xylophone-pjjq9647qqgq29p7r-8000.app.github.dev/api/'
